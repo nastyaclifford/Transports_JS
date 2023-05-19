@@ -1,0 +1,24 @@
+.list{
+    width: 60rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image{
+    width: 200px;
+}
+.list_item{
+   padding-top: 2rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   
+   font-style: italic;
+}
+.item_info{
+    font-style:normal;
+    font-weight: 600;
+}
